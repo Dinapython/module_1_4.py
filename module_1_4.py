@@ -1,0 +1,6 @@
+my_string = input('сколько у Вас строк задач сегодня? ')
+print('Всего строков',my_string.upper())
+print('Сколько строк задач Вы смогли выполнить?',my_string.lower())
+print('сколько у Вас строк задач сегодня? '.replace(' ', ''))
+print(my_string[0])
+print(my_string[-1])
